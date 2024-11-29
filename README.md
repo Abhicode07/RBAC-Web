@@ -1,5 +1,3 @@
-Here's an expanded version for your README file:
-
 ---
 
 # RBAC Web Application
