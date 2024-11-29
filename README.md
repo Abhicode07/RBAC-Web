@@ -42,6 +42,10 @@ The **RBAC Web Application** is designed to manage users, roles, and permissions
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/8a361277-e507-4554-aa96-d7888c776bcf)
 
+![image](https://github.com/user-attachments/assets/57a0112a-990f-401a-93ec-af0e6b045ca6)
+
+![image](https://github.com/user-attachments/assets/647292a9-0fec-4731-a4a4-86accc3924ee)
+
 
 Include some screenshots of your application here to give the reader a preview of how it looks. (e.g., Dashboard, User Management, Role Management, etc.)
 
