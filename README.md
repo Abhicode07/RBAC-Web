@@ -38,6 +38,7 @@ The **RBAC Web Application** is designed to manage users, roles, and permissions
 - Use the **User Management** page to create and manage users and assign roles to them.
 - On the **Role Management** page, you can create roles, assign permissions to them, and view the users assigned to each role.
 - The **Permission Management** page lets you define permissions and assign them to different roles.
+- In the **Components** folder, there is a mock data file that contains sample information for users, roles, and permissions. This mock data simulates real data for the application and is used to populate various sections like User Management, Role Management, and Permission Management. The data is structured in arrays or objects, making it easy to manage and update when needed. This mock data helps in testing and development before implementing a real backend to store and retrieve the data.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/8a361277-e507-4554-aa96-d7888c776bcf)
