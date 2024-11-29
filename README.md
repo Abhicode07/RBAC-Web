@@ -40,6 +40,8 @@ The **RBAC Web Application** is designed to manage users, roles, and permissions
 - The **Permission Management** page lets you define permissions and assign them to different roles.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/8a361277-e507-4554-aa96-d7888c776bcf)
+
 
 Include some screenshots of your application here to give the reader a preview of how it looks. (e.g., Dashboard, User Management, Role Management, etc.)
 
